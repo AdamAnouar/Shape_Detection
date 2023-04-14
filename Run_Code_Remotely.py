@@ -36,3 +36,6 @@ if read:
 #Output for Artist to convert compas geometry into rhino geometry
 pts = sticky[points_key]
 points = [Polyline(points=p) for p in pts]
+
+
+ 
